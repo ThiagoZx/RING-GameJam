@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4E9C6F3B-BE3A-1A64-1E60-4625E7682480}</ProjectGuid>
+    <ProjectGuid>{04112718-1CF1-2BC1-8E03-CD732EE0E797}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,8 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\CondemnedSoul_Behaviour.cs" />
+     <Compile Include="Assets\Script\Balance_Behaviour.cs" />
      <Compile Include="Assets\Script\Fade_Behaviour.cs" />
+     <Compile Include="Assets\Script\Moviment_Behaviour.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
